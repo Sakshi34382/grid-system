@@ -1,0 +1,2 @@
+"# grid-system"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/Sakshi34382/grid-system.gitgit push -u origin main
+"# grid-system"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/Sakshi34382/grid-system.gitgit push -u origin main
